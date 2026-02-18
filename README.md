@@ -1,4 +1,4 @@
-# 🎰 Turslot Casino
+<p align="center"> Turslot Casino </p>
 
 <div style="position: relative; width: 300px; height: 200px; margin: auto;">
   <p align="center">
