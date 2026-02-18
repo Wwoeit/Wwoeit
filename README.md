@@ -1,6 +1,9 @@
 # 🎰 Turslot Casino
 
-![Slot Machine](spin.gif)
+<div style="position: relative; width: 300px; height: 200px; margin: auto;">
+  <img src="spin.gif" style="width: 100%; height: auto;">
+  <img src="slotbg.gif" style="position: absolute; top: 0; left: 0; width: 100%; height: auto;">
+</div>
 
 <!--
 **Wwoeit/Wwoeit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
