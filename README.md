@@ -1,6 +1,6 @@
 # 🎰 Turslot Casino
 
-![Slot Machine](slot.gif)
+![Slot Machine](spin.gif)
 
 <!--
 **Wwoeit/Wwoeit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
