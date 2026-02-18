@@ -1,10 +1,8 @@
 <p align="center"> Turslot Casino </p>
 
 <div style="position: relative; width: 50px; height: 50px; margin: auto;">
-  <p align="center">
     <img src="spin.gif" style="position: absolute; top: 0; left: 0; width: 100px; height: auto;">
     <img src="slotbg.gif" style="position: absolute; top: 0; left: 0; width: 100px; height: auto;">
-  </p>
 </div>
 
 <!--
