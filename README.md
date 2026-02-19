@@ -1,6 +1,6 @@
 <p align="center"> Turslot Casino </p>
 
-![slots](https://turslot-generator.odintsovm2006.workers.dev/)
+![slots](https://turslot-generator.odintsovm2006.workers.dev/?t=1))
 
 <!--
 **Wwoeit/Wwoeit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
