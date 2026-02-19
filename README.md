@@ -1,7 +1,7 @@
 <p align="center"> Turslot Casino </p>
 
 <div align="center">
-    <img src="https://wwoeit.github.io/Wwoeit">
+    <img src="https://Wwoeit.github.io/Wwoeit/random.html">
 </div>
 
 <!--
