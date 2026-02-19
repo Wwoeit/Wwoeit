@@ -2,6 +2,7 @@
 
 <p align="center">
   <img src="https://turslot-generator.odintsovm2006.workers.dev/?t=1" width="100">
+  <img src="bbb.png" width="100">
 </p>
 
 <!--
