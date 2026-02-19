@@ -1,8 +1,6 @@
 <p align="center"> Turslot Casino </p>
 
-<div align="center">
-    <img src="https://Wwoeit.github.io/Wwoeit/random.html">
-</div>
+![slots](https://turslot-generator.odintsovm2006.workers.dev/)
 
 <!--
 **Wwoeit/Wwoeit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
